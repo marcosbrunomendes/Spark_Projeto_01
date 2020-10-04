@@ -1,5 +1,7 @@
 # Spark_Projeto_01
 
+#Você pode visualizar os exemplos do minicurso diretamente no browser. No entanto, para modificar e executar os comandos é necessário instalar o Python e o Jupyter na máquina local.
+
 Projeto com Feedback 3
 
 Prevendo o Nível de Satisfação dos Clientes do Santander
